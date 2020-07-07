@@ -1,2 +1,2 @@
 # gitbasics
-How to work with Git
+Tutorial on working with GitHub basics
